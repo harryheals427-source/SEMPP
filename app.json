@@ -6,8 +6,15 @@
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
     "platforms": ["ios", "android"],
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
     "android": {
-      "package": "com.harryheals.sempp"
+      "package": "com.harryheals.sempp",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
     },
     "extra": {
       "eas": {
