@@ -2,6 +2,7 @@
   "expo": {
     "name": "SEMPP",
     "slug": "semp-mobile",
+    "owner": "sempset",
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
     "platforms": ["ios", "android"],
