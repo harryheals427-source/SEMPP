@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "SEMPP",
+    "slug": "semp-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "com.harryheals.sempp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "36e73537-6366-45f3-9acf-0240bac5f6ce"
+      }
+    }
+  }
+}
